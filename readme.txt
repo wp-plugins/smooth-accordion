@@ -23,5 +23,4 @@ Simple and easy collapse accordion plugin for post and page. You can easily inse
 2. Accordion shortcode button in TinyMCE editor
 
 == Changelog ==
-= 1.0 =
-* Initial release *
+= Initial release V-1.0 =
