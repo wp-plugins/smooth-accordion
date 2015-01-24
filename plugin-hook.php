@@ -5,7 +5,7 @@
 	Description: Easy and smooth accordion plugin. You can easily insart/include accordion in your WordPress post or page.
 	Plugin URI: https://wordpress.org/plugins/smooth-accordion/
 	Author: Zakir Design
-	Author URI: http://#
+	Author URI: http://zakirinfo.com
 	Version: 1.0
 	License: GPL2
 	*/
@@ -97,7 +97,7 @@ add_shortcode ("sawcon", "smooth_accordion_warp_content");
 
 function smooth_accordion_shortcode_button() {
 	add_filter ("mce_external_plugins", "smooth_accordion_shortcode_button_script");
-	add_filter ("mce_buttons", "ppmaccordionb");
+	add_filter ("mce_buttons", "smacshortbtn");
 }
 
 function smooth_accordion_shortcode_button_script($plugin_array) {
@@ -105,7 +105,7 @@ function smooth_accordion_shortcode_button_script($plugin_array) {
 	return $plugin_array;
 }
 
-function ppmaccordionb($buttons) {
+function smacshortbtn($buttons) {
 	array_push ($buttons, 'smabutton');
 	return $buttons;
 }
