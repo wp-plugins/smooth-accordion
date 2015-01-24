@@ -7,6 +7,7 @@ Stable tag: 1.2
 License: GPLv2 or later
 License: http://www.gnu.org/licenses/gpl-2.0.html
 
+
 Simple and easy collapse accordion plugin for post and page. 
 
 == Description ==
