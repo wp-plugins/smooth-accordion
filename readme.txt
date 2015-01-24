@@ -26,8 +26,10 @@ http://zakirinfo.com/contact/
 2. Accordion shortcode button in TinyMCE editor
 
 == Changelog ==
-1.2
-1.0
+
+= 1.2 =
+= 1.0 =
+* Initial release
 
 == Upgrade Notice ==
 Now the icon clickable.
