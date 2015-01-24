@@ -13,7 +13,7 @@ Simple and easy collapse accordion plugin for post and page.
 Simple and easy collapse accordion plugin for post and page. You can easily insert accordion in your post or page. You don't need to remember the shortcode. Just install and you will find a shortcode button in your WordPress TinyMCE editor.
 
 
-I am available for Wordpress theme development work. If you want to work with me please contact with me.
+I am available for Wordpress theme development work. Do you want to start a project with me? Please contact - 
 http://zakirinfo.com/contact/
 
 == Installation ==
